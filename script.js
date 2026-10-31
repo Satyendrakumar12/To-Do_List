@@ -14,7 +14,7 @@ btn.addEventListener("click", () => {
     return;
   }
   ul.append(li);
-  li.textContent = text;`
+  li.textContent = text;
 
   input.value = "";
 });
