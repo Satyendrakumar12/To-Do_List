@@ -36,5 +36,6 @@ btn.addEventListener("click", () => {
     li.remove();
   });
 
+
   input.value = "";
 });
